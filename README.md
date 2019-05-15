@@ -9,8 +9,11 @@ test hfahfa;fa
 fjfjldfhafhafh afhaf a fa
 
 
-A Ruby library for carefully refactoring critical paths. [![Build Status](https://travis-ci.org/github/scientist.svg?branch=master)](https://travis-ci.org/github/scientist) [![Coverage Status](https://coveralls.io/repos/github/github/scientist/badge.svg?branch=master)](https://coveralls.io/github/github/scientist?branch=master)
+A Ruby library for carefully refactoring critical paths. [![Build Status](https://travis-ci.org/github/scientist.svg?branch=master)](https://travis-ci.org/github/scientist) [![Coverage Status](https://coveralls.io/repos/github/gi
 
+
+thub/scientist/badge.svg?branch=master)](https://coveralls.io/github/github/scientist?branch=master)
+jdhlfhhaflafjlaf jfj af
 ## How do I science?
 
 pretend you're changing the way you handle permissions in a large web app. Tests can help guide your refactoring, but you really want to compare the current and refactored behaviors under load.
